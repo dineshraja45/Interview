@@ -5,12 +5,24 @@ public class TCS {
 	
 	
 	
-	private void m1() {
-		// TODO Auto-generated method stub
+	public void m1() {
+	
 
 	}
-	private void m2() {
-		// TODO Auto-generated method stub
+	public void m2() {
+		
+
+	}
+	
+	
+	
+	public void a() {
+		System.out.println("Hello");
+	}
+	
+	
+	public void b() {
+		System.out.println("Welcome");
 
 	}
 	private void x() {
