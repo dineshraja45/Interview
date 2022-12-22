@@ -13,4 +13,12 @@ public class TCS {
 		// TODO Auto-generated method stub
 
 	}
+	private void x() {
+		// TODO Auto-generated method stub
+
+	}
+	private void y() {
+		// TODO Auto-generated method stub
+
+	}
 }
