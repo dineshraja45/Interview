@@ -33,7 +33,22 @@ public class TCS {
 		// TODO Auto-generated method stub
 
 	}
-	
+
+	private void name() {
+		
+	}
+	private void yy() {
+		// TODO Auto-generated method stub
+
+	}
+	private void hiujh() {
+		// TODO Auto-generated method stub
+
+	}
+	private void bjhb() {
+		// TODO Auto-generated method stub
+
+	}
 	private void Dinesh() {
 		// TODO Auto-generated method stub
 
@@ -45,7 +60,4 @@ public class TCS {
 		// TODO Auto-generated method stub
 
 	}
-	
-	
-	
 }
