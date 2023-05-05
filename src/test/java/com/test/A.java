@@ -7,7 +7,7 @@ public class A {
 		
 		java.util.List<Integer> li=new ArrayList<Integer>();
 		
-		li.add(10);
+		li.add(999999);
 		li.add(20);
 		li.add(30);
 		li.add(40);
@@ -19,7 +19,7 @@ public class A {
 		li.add(100);
 		
 		
-		for (int i = 5; i < li.size(); i++) {
+		for (int i = 0; i < li.size(); i++) {
 			Integer integer = li.get(i);
 			System.out.println(integer);
 		}
